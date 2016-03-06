@@ -3,7 +3,7 @@ __author__ = 'Chandler'
 import smtplib
 
 sender = "Test@Duracrypt.com"
-reciever = "chandlerford452@gmail.com"
+reciever = "Test@Duracrypt.com"
 message = "Test Message"
 
 
