@@ -6,7 +6,7 @@ from email.mime.text import MIMEText
 
 #Login Info:
 Username = 'Test@Duracrypt.com'
-Password = 'Th!$Is4T3stP4$$werd'
+Password = 
 
 #Email Info
 message = MIMEText("This is a test message")
